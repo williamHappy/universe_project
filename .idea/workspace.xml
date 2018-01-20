@@ -467,7 +467,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516354431282</updated>
       <workItem from="1516354434427" duration="9772000" />
-      <workItem from="1516419644758" duration="14913000" />
+      <workItem from="1516419644758" duration="14945000" />
     </task>
     <task id="LOCAL-00001" summary="test ignore 2018/01/21 .gitignore">
       <created>1516472544932</created>
@@ -476,11 +476,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516472544932</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test ignore 2018/01/21 .gitignore">
+      <created>1516472566527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516472566527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24685000" />
+    <option name="totallyTimeSpent" value="24717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
