@@ -70,7 +70,7 @@ h1 {
 #v4-pre-loaded .loading {
     width: 146px;
     height: 146px;
-    background: url(../img/smohan_logo_mask.png) 50% no-repeat;
+    background: url(../img/smohan_logo_mask_me.png) 50% no-repeat;
     background-size: cover;
     -webkit-transition: all .36s linear;
     transition: all .36s linear;
