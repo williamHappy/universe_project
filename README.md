@@ -7,6 +7,9 @@ github clone下来之后，导入项目时勾选 search for projects recursively
 > 1. search for projects recursively这个会递归查找项目中子模块项目，避免后面要再次add 子模块maven项目
 > 2. import maven projects automatically 是在改变pom文件时会自动更新项目，无需手动更新
 
+参考blog:
+http://blog.csdn.net/qq496013218/article/details/74910155
+
 #### 二. 项目运行
 修改pom文件
 
