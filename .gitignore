@@ -10,3 +10,5 @@ target/
 out
 gen
 
+# fleet project files
+.fleet
