@@ -25,3 +25,14 @@ http://blog.csdn.net/qq496013218/article/details/74910155
 打进去上传部署项目时，项目可能无法启动，jar会冲突。
 
 do: 本地开发注释掉，打包部署，添加上`<scope>provided</scope>`
+
+
+
+--- 2024/05/31 ---
+
+## 官网部署参考
+1. [3分钟搞懂阿里云服务器安装Nginx并配置静态访问页面](https://developer.aliyun.com/article/933711)
+2. [Nginx 服务器](https://www.arryblog.com/guide/deploy/alibaba-cloud-deployment.html#%E4%B8%89%E3%80%81nginx-%E6%9C%8D%E5%8A%A1%E5%99%A8)
+
+## 防火墙、安全组配置参考
+1. [3分钟搞懂阿里云服务器安装Nginx并配置静态访问页面](https://developer.aliyun.com/article/933711)
